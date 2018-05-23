@@ -1,0 +1,9 @@
+.Header {
+  display: flex;
+  box-sizing: border-box;
+  padding: 10px 20px;
+}
+
+.links {
+  margin-left: auto;
+}
